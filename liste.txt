@@ -1,3 +1,4 @@
 min nye indkøbsliste
-æblerchips
-øl
+æblerchips -f3
+øl -f3
+
